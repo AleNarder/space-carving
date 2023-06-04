@@ -1,0 +1,9 @@
+{
+    "watershed": {
+        "fill_holes": true
+    },
+    "carving": {
+        "voxelgrid_size": 70,
+        "voxelgrid_origin": [0, 0, 90]
+    }
+}
