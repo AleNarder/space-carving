@@ -23,18 +23,19 @@ If you want to avoid anaconda, be sure to have installed
 
 ### 1. Activate the environment
 
-    ```bash
-    conda env activate --from-file environment.yml
-    ```
+```bash
+conda env activate --from-file environment.yml
+```
 
 ### 1. Download data
 
-    ```bash
-    chmod +x init.sh
-    ./init.sh
-    ```
+```bash
+chmod +x init.sh
+./init.sh
+```
 ### 2. Start the jupyter notebooks
-    ```bash
-    jupyter notebook
-    ```
+
+```bash
+jupyter notebook
+```
 
