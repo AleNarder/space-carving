@@ -21,13 +21,17 @@ If you want to avoid anaconda, be sure to have installed
 
 ## How to run
 
-1. Download data
+### 1. Activate the environment
+    ```{bash}
+    conda env activate --from-file environment.yml
+    ```
+### 1. Download data
 
     ```{bash}
     chmod +x init.sh
     ./init.sh
     ```
-2. Run jupyter notebook
+### 2. Start the jupyter notebooks
     ```{bash}
     jupyter notebook
     ```
