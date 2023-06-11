@@ -14,9 +14,9 @@ The implemented features are:
 In order to install the required dependencies and run the source code you must have installed anaconda (or miniconda) on your system
 
 If you want to avoid anaconda, be sure to have installed
-- OpenCV == 4.6
-- Numpy  == 1.21
-- Progress == 1.6
+- OpenCV
+- Numpy
+- Progress
 - Jupyter notebook
 
 ## How to run
@@ -39,3 +39,6 @@ chmod +x init.sh
 jupyter notebook
 ```
 
+## Download processed files
+
+Processed files are available at the following [link](https://mega.nz/file/Lol0SD5Q#GhNTQ8tvhOC9JtgJLVQX7xMobrb3oQOWsbziH0YRJrA)
