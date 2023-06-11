@@ -3,8 +3,9 @@
         "fill_holes": true
     },
     "carving": {
-        "voxelgrid_h": 120,
-        "voxelgrid_w": 120,
-        "voxelgrid_d": 120
+        "voxelgrid_w": 140,
+        "voxelgrid_d": 140,
+        "voxelgrid_h": 55,
+        "voxelgrid_origin": [0, 0, 90]
     }
 }

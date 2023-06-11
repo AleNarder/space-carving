@@ -6,7 +6,7 @@ The implemented features are:
 - [x] Camera calibration
 - [x] Pose estimation
 - [x] Silhouette extraction
-- [x] Voxel Carving
+- [x] Voxel carving
 - [x] Voxel coloring
 
 ## Prerequisites
