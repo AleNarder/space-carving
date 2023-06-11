@@ -24,7 +24,8 @@ If you want to avoid anaconda, be sure to have installed
 ### 1. Activate the environment
 
 ```bash
-conda env activate --from-file environment.yml
+conda env create
+conda activate 3DCV
 ```
 
 ### 1. Download data
