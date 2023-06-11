@@ -1,6 +1,6 @@
 # CM0526 - Silhouette-based space carving
 
-This repo contains a solution for the final project of the G3DCV (2022/2023) course at Venice University.
+A solution for the final project of the G3DCV (2022/2023) course at Venice University.
 The implemented features are:
 
 - [x] Camera calibration
